@@ -1,0 +1,203 @@
+{
+   "about": {
+      "message": "Справка"
+   },
+   "accname": {
+      "message": "Имя аккаунта"
+   },
+   "address": {
+      "message": "Адрес"
+   },
+   "anonymous": {
+      "message": "Таинственный незнакомец"
+   },
+   "appDesc": {
+      "message": "Расширение Google Chrome™, предоставляющее доступ к серверам телефонии Beneffy Telecom."
+   },
+   "appName": {
+      "message": "Менеджер звонков от Beneffy Telecom"
+   },
+   "attachment_url": {
+      "message": "Адрес документа"
+   },
+   "behavior": {
+      "message": "Действия при звонке"
+   },
+   "birthday": {
+      "message": "Дата рождения"
+   },
+   "call_tab": {
+      "message": "Позвонить"
+   },
+   "cant_parse_number": {
+      "message": "Не удаётся выделить номер"
+   },
+   "cfabutton": {
+      "message": "Перенаправление звонков"
+   },
+   "choose_connection": {
+      "message": "Выберите подключение"
+   },
+   "clean_history": {
+      "message": "Очистить историю"
+   },
+   "clicktodial_text": {
+      "message": "Интеграция 'Звонок в один клик' в страницу"
+   },
+   "conference": {
+      "message": "Конферениции"
+   },
+   "connection": {
+      "message": "Введите имя нового подключения"
+   },
+   "customize_viewer_text": {
+      "message": "Настройки отображения профиля"
+   },
+   "device_selection": {
+      "message": "Выбор устройства"
+   },
+   "dndbutton": {
+      "message": "Не беспокоить"
+   },
+   "email": {
+      "message": "Электронная почта"
+   },
+   "failed": {
+      "message": "Ошибка"
+   },
+   "fax": {
+      "message": "Факс"
+   },
+   "fax_send": {
+      "message": "Отправить факс"
+   },
+   "first_name": {
+      "message": "Имя"
+   },
+   "from_number": {
+      "message": "Телефон отправителя"
+   },
+   "get_owner_name": {
+      "message": "Введите имя владельца номера"
+   },
+   "help_ask_create_pb": {
+      "message": "Телефонной книги еще нет, возможно, вы хотите её "
+   },
+   "help_ask_create_pb2": {
+      "message": "создать?"
+   },
+   "help_why": {
+      "message": "Зачем?"
+   },
+   "help_why_answer": {
+      "message": "Адресная книга позволяет хранить ваши контакты на удалённом сервере и получать доступ к ним в удобной форме с различных устройств."
+   },
+   "history_tab": {
+      "message": "История"
+   },
+   "inboundCallNotificationsEnabled": {
+      "message": "Уведомления при входящих звонках"
+   },
+   "info": {
+      "message": "Персональная информация"
+   },
+   "invitation_to_customize_viewers_url": {
+      "message": "Введите адрес вашего сайта, которому будут переданы все необходимые параметры звонка."
+   },
+   "lang": {
+      "message": "Язык"
+   },
+   "last_name": {
+      "message": "Фамилия"
+   },
+   "msg": {
+      "message": "Сообщения"
+   },
+   "new_connection": {
+      "message": "Новое подключение"
+   },
+   "no_voicemail_msg1": {
+      "message": "Нет голосовых сообщений для Вас."
+   },
+   "no_voicemail_msg2": {
+      "message": "...можно отдохнуть :)"
+   },
+   "onNewFaxNotification": {
+      "message": "Уведомлять о получении новых факсов"
+   },
+   "onQuickCallNotifications": {
+      "message": "Выводить оповещение при звонках, инициированных этим приложением"
+   },
+   "other": {
+      "message": "Другое"
+   },
+   "outboundCallNotificationsEnabled": {
+      "message": "Уведомления при исходящих звонках"
+   },
+   "password": {
+      "message": "Пароль"
+   },
+   "pb_name_placeholder": {
+      "message": "Имя"
+   },
+   "pb_phone_placeholder": {
+      "message": "Номер телефона"
+   },
+   "pb_title": {
+      "message": "Добавить запись в телефонную книгу"
+   },
+   "phone_num": {
+      "message": "Номер телефона"
+   },
+   "phonebook": {
+      "message": "Телефонная книга"
+   },
+   "pref_tab": {
+      "message": "Настройки"
+   },
+   "reset": {
+      "message": "Сбросить"
+   },
+   "robutton": {
+      "message": "Удалённый офис"
+   },
+   "save": {
+      "message": "Сохранить"
+   },
+   "send": {
+      "message": "Отправить"
+   },
+   "signin": {
+      "message": "Войти"
+   },
+   "signin_label": {
+      "message": "Войти"
+   },
+   "signout_text": {
+      "message": "выйти"
+   },
+   "success": {
+      "message": "Успешно"
+   },
+   "supported_params_text": {
+      "message": "Поддерживаемые параметры"
+   },
+   "system_notification": {
+      "message": "Системные уведомления"
+   },
+   "tel": {
+      "message": "Номер телефона"
+   },
+   "to_name": {
+      "message": "Имя получателя"
+   },
+   "to_number": {
+      "message": "Телефон получателя"
+   },
+   "url": {
+      "message": "Адрес сервера"
+   },
+   "username": {
+      "message": "Имя пользователя"
+   }
+}

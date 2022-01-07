@@ -1,0 +1,203 @@
+{
+   "about": {
+      "message": "About"
+   },
+   "accname": {
+      "message": "Enter your account name"
+   },
+   "address": {
+      "message": "Address"
+   },
+   "anonymous": {
+      "message": "Anonymous"
+   },
+   "appDesc": {
+      "message": "A Google Chrome™ extension that provides telephony integration with Beneffy Telecom."
+   },
+   "appName": {
+      "message": "Beneffy Telecom Dialer for Chrome"
+   },
+   "attachment_url": {
+      "message": "Document url"
+   },
+   "behavior": {
+      "message": "On call behavior"
+   },
+   "birthday": {
+      "message": "Birthday"
+   },
+   "call_tab": {
+      "message": "Call"
+   },
+   "cant_parse_number": {
+      "message": "No phone numbers there... i think..."
+   },
+   "cfabutton": {
+      "message": "Call Forwarding Always"
+   },
+   "choose_connection": {
+      "message": "Choose connection"
+   },
+   "clean_history": {
+      "message": "Clean history"
+   },
+   "clicktodial_text": {
+      "message": "Click to Dial"
+   },
+   "conference": {
+      "message": "Conferences"
+   },
+   "connection": {
+      "message": "Enter new connection name"
+   },
+   "customize_viewer_text": {
+      "message": "Customize profile viewer"
+   },
+   "device_selection": {
+      "message": "Active device"
+   },
+   "dndbutton": {
+      "message": "Do Not Disturb"
+   },
+   "email": {
+      "message": "Email address"
+   },
+   "failed": {
+      "message": "Failed"
+   },
+   "fax": {
+      "message": "Fax"
+   },
+   "fax_send": {
+      "message": "Send fax"
+   },
+   "first_name": {
+      "message": "First name"
+   },
+   "from_number": {
+      "message": "Sender's phone number"
+   },
+   "get_owner_name": {
+      "message": "Name of contact for"
+   },
+   "help_ask_create_pb": {
+      "message": "You have no phone book yet, maybe, you want"
+   },
+   "help_ask_create_pb2": {
+      "message": "create it?"
+   },
+   "help_why": {
+      "message": "Why?"
+   },
+   "help_why_answer": {
+      "message": "Address Book allows you to store your contacts on a remote server and access them in a convenient way with a variety of devices."
+   },
+   "history_tab": {
+      "message": "History"
+   },
+   "inboundCallNotificationsEnabled": {
+      "message": "Notify on inbound calls"
+   },
+   "info": {
+      "message": "Personal information"
+   },
+   "invitation_to_customize_viewers_url": {
+      "message": "Enter the address of your website, which is all the call options will be transferred"
+   },
+   "lang": {
+      "message": "Language"
+   },
+   "last_name": {
+      "message": "Last name"
+   },
+   "msg": {
+      "message": "Messages"
+   },
+   "new_connection": {
+      "message": "New connection"
+   },
+   "no_voicemail_msg1": {
+      "message": "You have no voicemails yet."
+   },
+   "no_voicemail_msg2": {
+      "message": "...make a rest"
+   },
+   "onNewFaxNotification": {
+      "message": "Notify when new fax received"
+   },
+   "onQuickCallNotifications": {
+      "message": "Notify on dialers call"
+   },
+   "other": {
+      "message": "Other"
+   },
+   "outboundCallNotificationsEnabled": {
+      "message": "Notify on outbound calls"
+   },
+   "password": {
+      "message": "Enter your password"
+   },
+   "pb_name_placeholder": {
+      "message": "Name"
+   },
+   "pb_phone_placeholder": {
+      "message": "Phone number"
+   },
+   "pb_title": {
+      "message": "Add entry to phonebook"
+   },
+   "phone_num": {
+      "message": "Phone number"
+   },
+   "phonebook": {
+      "message": "Phone book"
+   },
+   "pref_tab": {
+      "message": "Preferences"
+   },
+   "reset": {
+      "message": "Reset"
+   },
+   "robutton": {
+      "message": "Remote Office"
+   },
+   "save": {
+      "message": "Save"
+   },
+   "send": {
+      "message": "Send"
+   },
+   "signin": {
+      "message": "Sign In"
+   },
+   "signin_label": {
+      "message": "Sign In"
+   },
+   "signout_text": {
+      "message": "signout"
+   },
+   "success": {
+      "message": "Success"
+   },
+   "supported_params_text": {
+      "message": "Supported fields"
+   },
+   "system_notification": {
+      "message": "Use system notification"
+   },
+   "tel": {
+      "message": "Telephone number"
+   },
+   "to_name": {
+      "message": "Recipient's name"
+   },
+   "to_number": {
+      "message": "Recipient's phone number"
+   },
+   "url": {
+      "message": "Enter URL"
+   },
+   "username": {
+      "message": "Enter your user name"
+   }
+}
